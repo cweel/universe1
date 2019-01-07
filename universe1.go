@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 	"time"
-	"github.com/PhoenixTeng/universe1/zhouyi"
+	"github.com/PhoenixTeng/zhouyi"
 	"github.com/nosixtools/solarlunar"
 )
 
