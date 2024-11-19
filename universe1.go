@@ -52,10 +52,9 @@ func universe() (m, n, l []uint, f *os.File) {
 	}
 
 	//输出文本文件
-	f, err := os.OpenFile("./"+date, os.O_WRONLY, 0644)
+	f, err := os.OpenFile("./"+date+".txt", os.O_WRONLY|os.O_CREATE, 0644)
 	if err != nil {
 		fmt.Printf("open file error: %v\n,creating...\n", err)
-		f, err = os.Create("./" + date)
 	}
 	//defer f.Close()
 
