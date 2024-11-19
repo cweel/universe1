@@ -13,8 +13,8 @@ import (
 
 func main() {
 	yi := zhouyi.Text()
-	m, n, l, f := universe()
-	a := zhouyi.ReGuaNu(m, n, l, f, yi)
+	_, n, l, f := universe()
+	a := zhouyi.ReGuaNu(l, yi)
 	writeToFile(f, a, n, yi)
 	writeToTerminal(a, n, yi)
 	f.Close()
