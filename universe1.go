@@ -21,9 +21,9 @@ func main() {
 }
 
 func universe() (m, n, l []uint, f *os.File) {
-	m = []uint{0, 0, 0, 0, 0, 0}
-	n = []uint{0, 0, 0, 0, 0, 0}
-	l = []uint{0, 0, 0, 0, 0, 0}
+	m = make([]uint, 6)
+	n = make([]uint, 6)
+	l = make([]uint, 6)
 	now := time.Now()
 	year := strconv.Itoa(now.Year())
 	month := strconv.Itoa(int(now.Month()))
