@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io"
 	"math/rand"
 	"os"
 	"strconv"
@@ -102,7 +103,7 @@ func appendToFile(f *os.File, content string) {
 	// 以只写的模式，打开文件
 
 	// 查找文件末尾的偏移量
-	n, _ := f.Seek(0, os.SEEK_END)
+	n, _ := f.Seek(0, io.SeekEnd)
 	// 从末尾的偏移量开始写入内容
 	f.WriteAt([]byte(content), n)
 
