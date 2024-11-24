@@ -1,8 +1,8 @@
-github.com/cweel/zhouyi v0.0.0-20190107100743-0f9d07a4a294 h1:KHXg9R8vTdMmZ2G+dDCGRXDOXdTqA4MpIEqQ2ubJCkA=
-github.com/cweel/zhouyi v0.0.0-20190107100743-0f9d07a4a294/go.mod h1:7lUwHl2YR4KwGibahOfpeSCPCykhKutGFmwFAMh27do=
-github.com/cweel/zhouyi v0.0.0-20241119123732-eebf44a0f100 h1:Cn6iPPScdlvgaWC/Y0+xqkS9T+udgx+6GlnMRhEQ0j8=
-github.com/cweel/zhouyi v0.0.0-20241119123732-eebf44a0f100/go.mod h1:7lUwHl2YR4KwGibahOfpeSCPCykhKutGFmwFAMh27do=
-github.com/cweel/zhouyi v0.0.0-20241119130034-ba1b90c78b96 h1:+3xC6LCKZR7JtKhy4A+e322jxxFd3ZGtWRH1mVirIl4=
-github.com/cweel/zhouyi v0.0.0-20241119130034-ba1b90c78b96/go.mod h1:7lUwHl2YR4KwGibahOfpeSCPCykhKutGFmwFAMh27do=
+github.com/cweel/zhouyi v0.0.0-20241121045557-8f4223c2b7f1 h1:hKJ13hrfKY30IrIEbKVUT9DgiBf8JZmmGeSlibO/JsI=
+github.com/cweel/zhouyi v0.0.0-20241121045557-8f4223c2b7f1/go.mod h1:7lUwHl2YR4KwGibahOfpeSCPCykhKutGFmwFAMh27do=
+github.com/cweel/zhouyi v0.0.0-20241121114035-1de5ca9dabcf h1:rHR3ptkwcXpTmx01BcPxhwBauWdydtcbn8APwasKq+M=
+github.com/cweel/zhouyi v0.0.0-20241121114035-1de5ca9dabcf/go.mod h1:7lUwHl2YR4KwGibahOfpeSCPCykhKutGFmwFAMh27do=
+github.com/cweel/zhouyi v0.0.0-20241121114510-aa5b5dae10ee h1:AZqqAXFL+EhhSYQ6ZrZ0dNBWaiGAOsmKuPfOddncI1Y=
+github.com/cweel/zhouyi v0.0.0-20241121114510-aa5b5dae10ee/go.mod h1:7lUwHl2YR4KwGibahOfpeSCPCykhKutGFmwFAMh27do=
 github.com/nosixtools/solarlunar v0.0.0-20211112060703-1b6dea7b4a19 h1:LhWT2dBuNkYexwRSsPpYh67e0ikmH1ebBDaVkGHoMts=
 github.com/nosixtools/solarlunar v0.0.0-20211112060703-1b6dea7b4a19/go.mod h1:LjhyrWzOLJ9l1azMoNr9iCvfNrHEREqvJHzSLQcD0/o=
